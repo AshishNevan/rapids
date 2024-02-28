@@ -25,6 +25,9 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+h1 {
+  font-weight: 800;
+}
 
 @layer utilities {
   .text-balance {
